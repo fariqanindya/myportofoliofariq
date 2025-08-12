@@ -98,6 +98,25 @@ const jobDetails = {
             'Improved website loading speed by 50%',
             'Received positive feedback from clients and team members'
         ]
+    },
+    'nguseup-specialist': {
+        title: 'Nguseup specialist',
+        company: 'Pemancingan',
+        period: '2019 - 2020',
+        description: 'Well.',
+        responsibilities: [
+            'Built and maintained client websites using HTML, CSS, and JavaScript',
+            'Collaborated with senior developers on larger projects',
+            'Fixed bugs and implemented new features',
+            'Participated in code reviews and team meetings',
+            'Learned new technologies and best practices'
+        ],
+        technologies: ['HTML5', 'CSS3', 'JavaScript', 'jQuery', 'PHP', 'MySQL'],
+        achievements: [
+            'Successfully completed 15+ client projects',
+            'Improved website loading speed by 50%',
+            'Received positive feedback from clients and team members'
+        ]
     }
 };
 
